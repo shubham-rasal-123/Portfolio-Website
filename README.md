@@ -50,7 +50,6 @@ A modern and responsive personal portfolio website built with HTML, CSS, and Jav
 
 - Email: <mailto:shubhamrasal861@gmail.com>
 - GitHub: [shubham-rasal-123](https://github.com/shubham-rasal-123)
-- LinkedIn: [Profile](https://www.linkedin.com/)
 
 ## 📝 License
 
