@@ -1,23 +1,57 @@
-# Portfolio Website
+# Shubham Rasal | Portfolio Website
 
-## Screenshots
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-4CAF50?style=for-the-badge)
 
-![alt text](images/Screenshot1.png)
+A modern and responsive personal portfolio website built with HTML, CSS, and JavaScript. It highlights the developer's background, services, technical skills, and contact information in a polished and user-friendly layout.
 
+## ✨ Features
 
+- Responsive layout for mobile, tablet, and desktop screens
+- Clean personal branding and portfolio sections
+- About, Services, Skills, and Contact areas
+- Smooth scrolling and interactive UI elements
+- Contact form integration with Formcarry
 
-![alt text](images/Screenshot3.png)
+## 📸 Screenshots
 
+![Portfolio screenshot 1](images/Screenshot1.png)
 
-![alt text](images/Screenshot4.png)
+![Portfolio screenshot 2](images/Screenshot3.png)
 
+![Portfolio screenshot 3](images/Screenshot4.png)
 
+## 🛠️ Tech Stack
 
-This project is a Portfolio Website built with [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) to highlight personal or professional achievements, skills, and projects. The site features a clean and responsive design, ensuring an optimal viewing experience on any device. Interactive elements like smooth scrolling, animated transitions, and dynamic galleries enhance user engagement. The portfolio includes key sections such as "About Me," "Projects," "Skills," and "Contact," making it an excellent tool for showcasing expertise and creativity while practicing front-end development skills.
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Formcarry](https://formcarry.com/)
 
-## Using launguage
+## 📁 Project Structure
 
-+ `HTML` - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-+ `CSS`  - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-+ `JavaScript` - [JAVASCRIPT](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-+ `Formcarry` - [Formcarry](https://formcarry.com/)
+```text
+.
+├── index.html
+├── style.css
+├── script.js
+└── images/
+```
+
+## ▶️ Run Locally
+
+1. Clone the repository.
+2. Open `index.html` in your browser.
+3. If needed, run a simple local server from the project folder.
+
+## 📬 Contact
+
+- Email: <mailto:shubhamrasal861@gmail.com>
+- GitHub: [shubham-rasal-123](https://github.com/shubham-rasal-123)
+- LinkedIn: [Profile](https://www.linkedin.com/)
+
+## 📝 License
+
+This project is open for personal and educational use.
